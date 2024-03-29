@@ -47,7 +47,7 @@
       "question": "Qual dessas descrições se parece mais com você?",
       "options":[
         {"id": 1, "name":"Sou analítico e meticuloso em minhas abordagens.", "alias":"A"},
-        {"id": 2, "name":"Sou imaginativo e sempre busco novas perspectivass.", "alias":"B"},
+        {"id": 2, "name":"Sou imaginativo e sempre busco novas perspectivas.", "alias":"B"},
         {"id": 3, "name":"Sou prático e focado em resultados tangíveis.", "alias":"C"},
         {"id": 4, "name":"Sou racional e gosto de seguir um plano claro.", "alias":"D"}
       ]
