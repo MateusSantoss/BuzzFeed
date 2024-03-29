@@ -1,55 +1,63 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Qual linguagem de programação ideal para você?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "O que você prefere fazer em seu tempo livre?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Explorar novas ideias e conceitos.", "alias":"A"},
+        {"id": 2, "name":"Organizar e otimizar coisas ao seu redor.", "alias":"B"},
+        {"id": 3, "name":"Ser criativo e expressar-se artisticamente", "alias":"C"},
+        {"id": 4, "name":"Resolver problemas lógicos e complexos", "alias":"D"}
+
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Como você lida com situações estressantes?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Analiso cuidadosamente a situação e busco a melhor abordagem para resolvê-la.", "alias":"A"},
+        {"id": 2, "name":"Procuro soluções criativas e inovadoras.", "alias":"B"},
+        {"id": 3, "name":"Enfrento os problemas de frente e tento resolvê-los rapidamente.", "alias":"C"},
+        {"id": 4, "name":"Mantenho a calma e penso de forma estratégica.", "alias":"D"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual dessas atividades você mais gosta?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Analisar dados e extrair insights significativos.", "alias":"A"},
+        {"id": 2, "name":"Criar interfaces atraentes e experiências visuais únicas.", "alias":"B"},
+        {"id": 3, "name":"Otimizar processos e tornar as coisas mais eficientes.", "alias":"C"},
+        {"id": 4, "name":"Desenvolver algoritmos e resolver desafios lógicos.", "alias":"D"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "O que você valoriza mais em uma linguagem de programação?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Lógica e robustez.", "alias":"A"},
+        {"id": 2, "name":"Flexibilidade e capacidade de expressão.", "alias":"B"},
+        {"id": 3, "name":"Simplicidade e facilidade de uso.", "alias":"C"},
+        {"id": 4, "name":"Eficiência e desempenho.", "alias":"D"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual dessas descrições se parece mais com você?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Sou analítico e meticuloso em minhas abordagens.", "alias":"A"},
+        {"id": 2, "name":"Sou imaginativo e sempre busco novas perspectivass.", "alias":"B"},
+        {"id": 3, "name":"Sou prático e focado em resultados tangíveis.", "alias":"C"},
+        {"id": 4, "name":"Sou racional e gosto de seguir um plano claro.", "alias":"D"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+
+    "A": "Python! Versátil, amigável e capaz de se adaptar a uma ampla variedade de situações.",
+    "B": "JavaScript! Dinâmico, ágil e sempre pronto para lidar com qualquer desafio que apareça.",
+    "C": "Ruby! Criativo, expressivo e apaixonado por beleza e elegância.",
+    "D": "C++! Determinado, rigoroso e capaz de lidar com os desafios mais complexos."
   }
 }
